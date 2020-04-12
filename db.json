@@ -1,7 +1,7 @@
 {
   "profiles": [
-    {"name": "John Doe", "email":"johndoe@gmai.com", "location":"India"},
-    {"name": "Jane Doe", "email":"janedoe@gmai.com", "location":"Japan"},
-    {"name": "Judy Doe", "email":"judydoe@gmai.com", "location":"China"}
+    {"name": "John", "email":"johndoe@gmai.com", "location":"India"},
+    {"name": "Jane", "email":"janedoe@gmai.com", "location":"Japan"},
+    {"name": "Judy", "email":"judydoe@gmai.com", "location":"China"}
   ]
 }
